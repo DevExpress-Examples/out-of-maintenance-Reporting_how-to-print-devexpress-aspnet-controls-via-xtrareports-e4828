@@ -3,7 +3,7 @@
 
 * [Person.cs](./CS/ExportAspControlsViaReports/App_Code/Person.cs) (VB: [Person.vb](./VB/ExportAspControlsViaReports/App_Code/Person.vb))
 * [WebForm1.aspx](./CS/ExportAspControlsViaReports/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/ExportAspControlsViaReports/WebForm1.aspx))
-* [WebForm1.aspx.cs](./CS/ExportAspControlsViaReports/WebForm1.aspx.cs) (VB: [WebForm1.aspx](./VB/ExportAspControlsViaReports/WebForm1.aspx))
+* [WebForm1.aspx.cs](./CS/ExportAspControlsViaReports/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/ExportAspControlsViaReports/WebForm1.aspx.vb))
 <!-- default file list end -->
 # How to print DevExpress ASP.NET controls via XtraReports
 
