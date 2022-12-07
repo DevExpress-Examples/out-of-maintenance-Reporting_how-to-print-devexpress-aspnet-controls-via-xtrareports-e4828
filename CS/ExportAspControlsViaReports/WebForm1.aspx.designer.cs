@@ -28,7 +28,7 @@ namespace ExportAspControlsViaReports {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// WebChartControl1 control.
@@ -55,7 +55,7 @@ namespace ExportAspControlsViaReports {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.Export.ASPxGridViewExporter ASPxGridViewExporter1;
+        protected global::DevExpress.Web.ASPxGridViewExporter ASPxGridViewExporter1;
         
         /// <summary>
         /// ObjectDataSource1 control.
